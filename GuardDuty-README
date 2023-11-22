@@ -1,6 +1,8 @@
+# The two scripts, guardduty_setup.tf and  enable_guardduty.tf set up GuardDuty in every Region in AWS. 
+
 # File Structure
 
-Your Terraform Project
+Henson Terraform Project
 │
 ├── enable_guardduty.tf    # Main Terraform file in the root directory
 │
