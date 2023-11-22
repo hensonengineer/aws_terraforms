@@ -1,0 +1,8 @@
+# File Structure
+
+Your Terraform Project
+│
+├── enable_guardduty.tf    # Main Terraform file in the root directory
+│
+└── guardduty/             # GuardDuty module directory
+    └── guardduty_setup.tf # Terraform file for the GuardDuty module
